@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.python-version
+
+# Outputs
+outputs/
+
+# IDE
+.vscode/
+.idea/
+
+# Backup files
+*.save
+*.save.*
+
+# Logs
+*.log
